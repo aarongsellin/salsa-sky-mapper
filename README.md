@@ -41,6 +41,7 @@ ${x} = {r cos(l - 90°)}$
 ${y} = {r sin(l - 90°) + R_0}$
 
 Conversion calculation implemented in code:
+
 ![conversion](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/63c48d4f-fd3d-4419-a782-747a418870fc)
 
 ##
