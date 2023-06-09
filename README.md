@@ -14,7 +14,7 @@ can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 ## Interactive Play
 
 A feature that is currently being developed for this repository is the ability to play around with how the calculations
-are made in an interactive sandbox esc enviornment. Take a look at the image below. 
+are made in an interactive sandbox esc enviornment. The image below is figure 2.1 from the afformentioned SALSA project, Mapping the Milkyway. 
 ![interactive](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/90d8ae12-fe9f-4c9e-acac-e17c4b17d8ca)
 ### Constants
 
