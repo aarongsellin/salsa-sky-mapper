@@ -20,6 +20,7 @@ $r = {\sqrt{R^2 - R_0^2 \sin^2 l }+ R_0 \cos l}$
 
 ### Equations for converting to Cartesian coordinates
 
-${x, y} = {r cos(l - 90°), r sin(l - 90°) + R_0}$
+${x} = {r cos(l - 90°)}$
+${y} = {r sin(l - 90°) + R_0}$
 
 ##
