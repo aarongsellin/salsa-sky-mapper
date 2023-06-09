@@ -18,12 +18,13 @@ are made in an interactive sandbox esc enviornment. A user should be able to mod
 the relative velocity $V$, the longitude $l$ and then see live how it affects the readings and where the gas cloud
 ends up on a Cartesean map of the Galaxy. 
 
-In addition, the project will include a library of examples demonstrating the impact of different observation quantities and time intervals on the readings. 
-This feature will generate sample observational data, providing users with a visual representation of what they can expect from their own observations. 
-By exploring these examples, users can gain insights into the expected outcomes of their observations.
+In addition, the project will include a feature for demonstrating the impact of different observation quantities and time intervals on the readings. 
+This will generate sample observational data, providing users with a visual representation of what they can expect from their own observations. 
+By exploring these examples, users can gain insights into the expected outcomes of their observations. For example, if a user wants to make observations
+from the months january to august, at a longitude of 45$270&deg$, the software would generate a sample, visualizing what that might look like.
 
 The image below is figure 2.1 from the afformentioned SALSA project, Mapping the Milkyway, and is an example of how to
-graphical user interface might look.
+graphical user interface might look, for modulation of the equations.
 
 ![interactive](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/90d8ae12-fe9f-4c9e-acac-e17c4b17d8ca)
 
