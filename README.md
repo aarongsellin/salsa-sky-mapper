@@ -31,7 +31,7 @@ And If $0&deg < l < 90&deg$ or $270&deg < l < 360&deg$ then the following calcul
 
 $r = {\sqrt{R^2 - R_0^2 \sin^2 l }+ R_0 \cos l}$
 
-### Equations for converting to Cartesian coordinates
+### Equations for converting distance to Cartesian coordinates
 
 ${x} = {r cos(l - 90°)}$
 
