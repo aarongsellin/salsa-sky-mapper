@@ -12,7 +12,7 @@ and another for converting that distance to Cartesian coordinates.
 
 $V_0$ Sun's velocity around the Galactic center, i.e., 220 km/s
 
-$R_0$ Distance of the Sun to the Galactic center, i.e., 8.5 kpc
+$R_0$ Distance from the Sun to Galactic center, i.e., 8.5 kpc
 
 $l$ Galactic longitude of observation
 
@@ -40,7 +40,8 @@ ${x} = {r cos(l - 90°)}$
 
 ${y} = {r sin(l - 90°) + R_0}$
 
-
+Conversion calculation implemented in code:
+<img width="236" alt="test" src="https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/63c48d4f-fd3d-4419-a782-747a418870fc">
 
 ##
 
