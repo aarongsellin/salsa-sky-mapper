@@ -12,7 +12,7 @@ xcords = []
 ycords = []
 
 # Data
-data = pd.read_csv("data.csv")
+data = pd.read_csv("example-data.csv")
 
 # Extract velocity and longitude columns
 velocities = data['velocity']
