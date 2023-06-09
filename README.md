@@ -28,6 +28,8 @@ graphical user interface might look for the variable explorer.
 
 $C$ is the location of the galactic center, $S$ is that of the sun and $M$ is a gas cloud. 
 
+## Understanding the Calculation Algorithm
+
 ### Constants
 
 $V_0$ Sun's velocity around the Galactic center, i.e., 220 km/s
