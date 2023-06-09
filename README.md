@@ -9,7 +9,7 @@ It does this by utilizing two equations, one for calculating the distance betwee
 and another for calculating that distance to cartesian coordinates.
 
 ### Calculation f
-R = \frac{{R_0 V_0 \sin(l)}}{{V_0 \sin(l) + V_r}}
+$R = \frac{{R_0 V_0 \sin(l)}}{{V_0 \sin(l) + V_r}}$
 
 
 ##
