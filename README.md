@@ -14,6 +14,6 @@ The following equation is always applied to calculate the distance no matter wha
 
 $R = \frac{{R_0 V_0 \sin(l)}}{{V_0 \sin(l) + V_r}}$
 
-But If $0 < l < 90$ or $270 < l < 360$
+But If $0&deg < l < 90&deg$ or $270&deg < l < 360&deg$
 
 ##
