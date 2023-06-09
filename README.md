@@ -13,6 +13,12 @@ can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 
 ## Interactive Play (In Development)
 
+ - **Variable Explorer**: This feature allows users to interact with the variables $V$ and $l$ in an interactive sandbox, enabling them to modify these variables and observe the resulting effects on the calculations and visualizations in real-time.
+
+ - **Theoretical Gas Cloud Placement**: This feature enables users to click on any position on the map and instantly see the calculated variables as if an observed gas cloud existed at that specific location. It provides a hypothetical scenario to explore the potential effects of different gas cloud placements.
+
+ - **Observation Impact Simulation**: This feature demonstrates the impact of different observation quantities and time intervals on the readings obtained with the SALSA telescope. It allows users to simulate various observational scenarios and observe how different quantities and time intervals affect the resulting data and visualizations.
+
 A feature that is currently being developed for this repository is the ability to play around with how the calculations
 are made in an interactive sandbox esc enviornment. A user should be able to modulate variables like
 the relative velocity $V$, the longitude $l$ and then see live how it affects the readings and where the gas cloud
