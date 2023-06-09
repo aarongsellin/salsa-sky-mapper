@@ -11,14 +11,14 @@ and another for converting that distance to Cartesian coordinates.
 This entire project is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
 can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 
-
-
 ## Interactive Play (In Development)
 
 A feature that is currently being developed for this repository is the ability to play around with how the calculations
 are made in an interactive sandbox esc enviornment. The image below is figure 2.1 from the afformentioned SALSA project, Mapping the Milkyway. 
+
 ![interactive](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/90d8ae12-fe9f-4c9e-acac-e17c4b17d8ca)
-C is the location of the galactic center, S is that of the sun and M is a gas cloud.
+
+$C$ is the location of the galactic center, $S$ is that of the sun and $M$ is a gas cloud.
 
 ### Constants
 
