@@ -16,6 +16,6 @@ $R = \frac{{R_0 V_0 \sin(l)}}{{V_0 \sin(l) + V_r}}$
 
 And If $0&deg < l < 90&deg$ or $270&deg < l < 360&deg$ then the following calculation has to be done to get the correct distance:
 
-$r± = ± \frac{1}{\sqrt{R^2 - R_0^2 \sin^2 l + R_0 \cos l}}$
+$r = {\sqrt{R^2 - R_0^2 \sin^2 l + R_0 \cos l}}$
 
 ##
