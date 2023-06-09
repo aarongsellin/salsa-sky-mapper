@@ -32,7 +32,7 @@ And If $0&deg < l < 90&deg$ or $270&deg < l < 360&deg$ then the following calcul
 $r = {\sqrt{R^2 - R_0^2 \sin^2 l }+ R_0 \cos l}$
 
 Distance calculation implemented in code:
-![test](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/1ea517a8-14a3-4ed5-989d-56ad93d04463)
+![distance](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/1ea517a8-14a3-4ed5-989d-56ad93d04463)
 
 ### Equations for converting distance to Cartesian coordinates
 
@@ -41,7 +41,7 @@ ${x} = {r cos(l - 90°)}$
 ${y} = {r sin(l - 90°) + R_0}$
 
 Conversion calculation implemented in code:
-<img width="236" alt="test" src="https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/63c48d4f-fd3d-4419-a782-747a418870fc">
+![conversion](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/63c48d4f-fd3d-4419-a782-747a418870fc)
 
 ##
 
