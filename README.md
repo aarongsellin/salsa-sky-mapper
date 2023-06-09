@@ -9,11 +9,11 @@ It does this by utilizing 3 equations, two for calculating the distance between 
 and another for converting that distance to Cartesian coordinates.
 
 ### Constants
-- V₀: Sun's velocity around the Galactic center, i.e., 220 km/s
-- R₀: Distance of the Sun to the Galactic center, i.e., 8.5 kpc
-- l: Galactic longitude of observation
-- V: Velocity of a cloud of gas
-- R: Cloud's distance to the Galactic center
+$V_0$    Sun's velocity around the Galactic center, i.e., 220 km/s
+$R_0$    Distance of the Sun to the Galactic center, i.e., 8.5 kpc
+$l$    Galactic longitude of observation
+$V$    Velocity of a cloud of gas
+$R$    Cloud's distance to the Galactic center
 
 
 ### Equations for Calculating Distance between gas cloud and galactic center
