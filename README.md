@@ -10,9 +10,10 @@ and another for converting that distance to Cartesian coordinates.
 
 ### Equations for Calculating Distance between gas cloud and galactic center
 
-This equation is used when longitude is $0 < l < 90$ and $270 < l < 360$
+The following equation is always applied to calculate the distance no matter what the value of $l$ is.
 
 $R = \frac{{R_0 V_0 \sin(l)}}{{V_0 \sin(l) + V_r}}$
 
+But If $0 < l < 90$ or $270 < l < 360$
 
 ##
