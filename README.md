@@ -19,7 +19,8 @@ the relative velocity $V$, the longitude $l$ and then see live how it affects th
 ends up on a Cartesean map of the Galaxy. Another feature will be a small library of examples of how many observations, 
 in a time interval will affect the readings. Meaning it would be able to generate sample observational data to illustrate
 what someone doing them could expect it to look like when they are all done with thei observations. 
-The image below is figure 2.1 from the afformentioned SALSA project, Mapping the Milkyway. 
+The image below is figure 2.1 from the afformentioned SALSA project, Mapping the Milkyway, and is an example of how to
+graphical user interface might look.
 
 ![interactive](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/90d8ae12-fe9f-4c9e-acac-e17c4b17d8ca)
 
