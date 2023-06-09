@@ -38,3 +38,4 @@ ${x} = {r cos(l - 90°)}$
 ${y} = {r sin(l - 90°) + R_0}$
 
 ##
+![test](https://github.com/mrikea4real/salsa-sky-mapper/assets/79717170/1ea517a8-14a3-4ed5-989d-56ad93d04463)
