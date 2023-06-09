@@ -16,9 +16,12 @@ can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 A feature that is currently being developed for this repository is the ability to play around with how the calculations
 are made in an interactive sandbox esc enviornment. A user should be able to modulate variables like
 the relative velocity $V$, the longitude $l$ and then see live how it affects the readings and where the gas cloud
-ends up on a Cartesean map of the Galaxy. Another feature will be a small library of examples of how many observations, 
-in a time interval will affect the readings. Meaning it would be able to generate sample observational data to illustrate
-what someone doing them could expect it to look like when they are all done with thei observations. 
+ends up on a Cartesean map of the Galaxy. 
+
+In addition, the project will include a library of examples demonstrating the impact of different observation quantities and time intervals on the readings. 
+This feature will generate sample observational data, providing users with a visual representation of what they can expect from their own observations. 
+By exploring these examples, users can gain insights into the expected outcomes of their observations.
+
 The image below is figure 2.1 from the afformentioned SALSA project, Mapping the Milkyway, and is an example of how to
 graphical user interface might look.
 
