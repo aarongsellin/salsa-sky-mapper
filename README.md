@@ -8,6 +8,14 @@ This project provides a Python script for automatically calculating the position
 It does this by utilizing 3 equations, two for calculating the distance between the gas cloud and the galactic center,
 and another for converting that distance to Cartesian coordinates.
 
+### Constants
+- V₀: Sun's velocity around the Galactic center, i.e., 220 km/s
+- R₀: Distance of the Sun to the Galactic center, i.e., 8.5 kpc
+- l: Galactic longitude of observation
+- V: Velocity of a cloud of gas
+- R: Cloud's distance to the Galactic center
+
+
 ### Equations for Calculating Distance between gas cloud and galactic center
 
 The following equation is always applied to calculate the distance no matter what the value of $l$ is:
