@@ -20,16 +20,6 @@ $r = {\sqrt{R^2 - R_0^2 \sin^2 l }+ R_0 \cos l}$
 
 ### Equations for converting to Cartesian coordinates
 
-\[
-\begin{Bmatrix}
-x \\
-y \\
-\end{Bmatrix}
-= 
-\begin{Bmatrix}
-r \cos(l - 90^\circ) \\
-r \sin(l - 90^\circ) \\
-\end{Bmatrix}
-\]
+${x, y} = {r cos(l - 90°), r sin(l - 90°)}$
 
 ##
