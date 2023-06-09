@@ -18,4 +18,8 @@ And If $0&deg < l < 90&deg$ or $270&deg < l < 360&deg$ then the following calcul
 
 $r = {\sqrt{R^2 - R_0^2 \sin^2 l }+ R_0 \cos l}$
 
+### Equations for converting to Cartesian coordinates
+
+$[x, y] = [r \cos(l - 90^\circ), r \sin(l - 90^\circ)]$
+
 ##
