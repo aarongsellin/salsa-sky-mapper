@@ -1,15 +1,21 @@
-# Salsa Sky Mapper
+# Salsa Sky Mapper Library
 
-This is project for calculating the structure of the Milky Way using data from the SALSA radio telescope at Onsala Space Observatory.
+This is a library for calculating and making sense of data from the SALSA radio telescope at Onsala Space Observatory.
 
-## Introduction
-
+## Calculator
 This project provides a Python script for automatically calculating the positions of hydrogen clouds in our galaxy. 
 It does this by utilizing 3 equations, two for calculating the distance between the gas cloud and the galactic center,
 and another for converting that distance to Cartesian coordinates.
 
-This entire project is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
+This feature is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
 can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
+
+### Options:
+
+- `-plot`: Enable plotting the sky map (default: True).
+- `-plot=False`: Disable plotting the sky map.
+- `-output=<filename>` or `-out=<filename>`: Specify the output file name for the plotted data.
+- `-data=<filename>`: Specify the data file name for calculations. If not provided, the script will use the default data file.
 
 ## Interactive Play (In Development)
 
