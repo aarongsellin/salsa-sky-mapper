@@ -18,6 +18,8 @@ In the example below, we don't want to plot the graph only calculate x & y value
 
 `py sky-map-calculator.py -plot=False out=calculated`
 
+To understand how the calculations are done, read [this]("Understanding the Calculator.md").
+
 This feature is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
 can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 
