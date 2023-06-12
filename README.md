@@ -11,10 +11,10 @@ and another for converting that distance to Cartesian coordinates.
 
 - `-plot`: Enable plotting the sky map (default: True).
 - `-plot=False`: Disable plotting the sky map.
-- `-output=<filename>` or `-out=<filename>`: Specify the output file name for the plotted data.
+- `-output=<filename>` or `-out=<filename>`: Specify the output file name for the plotted data, without file extension.
 - `-data=<filename>`: Specify the data file name for calculations. If not provided, the script will use the default data file.
 
-Example: `sdfgsdfg`
+Example: `py sky-map-calculator.py -plot=False out=calculated`
 
 This feature is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
 can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
