@@ -15,6 +15,7 @@ and another for converting that distance to Cartesian coordinates.
 - `-data=<filename>`: Specify the data file name for calculations. If not provided, the script will use the default data file.
 
 In the example below, we don't want to plot the graph only calculate x & y values and output it to a file called calculated.txt: 
+
 `py sky-map-calculator.py -plot=False out=calculated`
 
 This feature is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
