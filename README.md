@@ -7,15 +7,17 @@ This project provides a Python script for automatically calculating the position
 It does this by utilizing 3 equations, two for calculating the distance between the gas cloud and the galactic center,
 and another for converting that distance to Cartesian coordinates.
 
-This feature is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
-can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
-
-### Options:
+### Command Line Options:
 
 - `-plot`: Enable plotting the sky map (default: True).
 - `-plot=False`: Disable plotting the sky map.
 - `-output=<filename>` or `-out=<filename>`: Specify the output file name for the plotted data.
 - `-data=<filename>`: Specify the data file name for calculations. If not provided, the script will use the default data file.
+
+Example: ``
+
+This feature is based on information from a SALSA project documentation titled, Mapping the Milkyway and you
+can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 
 ## Interactive Play (In Development)
 
