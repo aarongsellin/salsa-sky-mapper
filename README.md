@@ -25,9 +25,7 @@ can find it on the [SALSA website](https://liv.oso.chalmers.se/salsa/support).
 
 ## Interactive Play (In Development)
 
-The goal of Interactive Play is to provide tools for calculations and visualization, making it easier for intrigued astronomers to take a deep dive into the structure of the Milky Way's hydrogen clouds. This facilitates a better understanding of their positions and characteristics. To do this Interactive Play offers three key features:
-
- - **Variable Explorer**: This feature allows users to interact with the variables $V$ and $l$ in an interactive sandbox, enabling them to modify these variables and observe the resulting effects on the calculations and visualizations in real-time.
+The goal of Interactive Play is to provide tools for calculations and visualization, making it easier for intrigued astronomers to take a deep dive into the structure of the Milky Way's hydrogen clouds. This facilitates a better understanding of their positions and characteristics. To do this Interactive Play offers two key features:
 
  - **Theoretical Gas Cloud Placement**: This feature enables users to click on any position on the map and instantly see the calculated variables as if an observed gas cloud existed at that specific location. It provides a hypothetical scenario to explore the potential effects of different gas cloud placements.
 
